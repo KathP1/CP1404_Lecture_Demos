@@ -1,3 +1,3 @@
-# VCS Demo forCP1404
+# VCS Demo for CP1404
 
 This is nice
